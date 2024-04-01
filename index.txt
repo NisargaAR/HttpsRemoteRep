@@ -1,7 +1,5 @@
 hello
 hi
 good
-
 bad
-
 nice
